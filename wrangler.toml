@@ -33,3 +33,4 @@ route = { pattern = "docker-staging.cupidcharms.uk", custom_domain = true }
 [env.staging.vars]
 MODE = "staging"
 TARGET_UPSTREAM = ""
+
